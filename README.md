@@ -7,16 +7,16 @@ enter a location and retrieve the current weather conditions for that location.
 🚀 Features
 ----------------------
 1. Search by city name
-2. Real-time temperature data (in °F)
-3. Wind speed, Humidity, Feels-like temperature info
+2. Real-time temperature data (in °C)
+3. Wind speed, Humidity, "Feels-like" temperature info
 4. Hourly forecast
 5. Clean and responsive UI
 
 🔧 How to Run
 ----------------------
 1. Clone this repository: git clone https://github.com/yourusername/weather-app.git
-2. cd weather-app
-3. npm run dev
+2. Run "cd weather-app"
+3. Run "npm run dev"
 
 🔑 API Key
 ----------------------

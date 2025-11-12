@@ -1,7 +1,8 @@
 🌦️ WEATHER APP
 ----------------------
 ----------------------
-A simple and beautiful weather application built with HTML, CSS, and JavaScript, using the weatherapi API.
+A web-based weather application that allows users to
+enter a location and retrieve the current weather conditions for that location.
 
 🚀 Features
 ----------------------

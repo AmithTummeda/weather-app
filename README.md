@@ -1,19 +1,24 @@
-🌦️ Weather App
-A simple and beautiful weather application built with HTML, CSS, and JavaScript, using the Visual Crossing Weather API.
+🌦️ WEATHER APP
+----------------------
+----------------------
+A web-based weather application that allows users to
+enter a location and retrieve the current weather conditions for that location.
 
 🚀 Features
-Search by city name
-Real-time temperature data (in °F)
-Wind speed, Humidity, Feels-like temperature info
-Hourly forecast
-Clean and responsive UI
+----------------------
+1. Search by city name
+2. Real-time temperature data (in °C)
+3. Wind speed, Humidity, "Feels-like" temperature info
+4. Hourly forecast
+5. Clean and responsive UI
 
 🔧 How to Run
-Clone this repository:
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
-npm run dev
+----------------------
+1. Clone this repository: git clone https://github.com/yourusername/weather-app.git
+2. Run "cd weather-app"
+3. Run "npm run dev"
 
 🔑 API Key
-Using weatherapi to generate your own API key
-Replace it in app.jsx "API_KEY"
+----------------------
+1. Use weatherapi to generate your own API key
+2. Replace it in app.jsx "API_KEY"

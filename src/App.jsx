@@ -49,7 +49,6 @@ const App = () => {
     const defaultCity = "Mumbai";
     const API_URL = `https://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&q=${defaultCity}&days=2`;
     getWeatherDetails(API_URL);
-    console.log("API KEY:", API_KEY);
   }, []);
 
   return (
